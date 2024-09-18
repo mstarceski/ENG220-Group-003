@@ -1,6 +1,6 @@
 # ENG220-Group-003
 Peace Engineering Dashboard for engineering 220 course
-Members:
+/nMembers:
 Grace Dean
 Joseph Ferreri 
 Madeline Hwang
